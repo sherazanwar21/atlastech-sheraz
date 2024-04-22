@@ -12,3 +12,6 @@ for x in $devices; do
         
 
 
+        ##change madeeee
+
+
